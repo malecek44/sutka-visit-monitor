@@ -2,7 +2,7 @@ name: Sutka visitor monitor
 
 on:
   schedule:
-    - cron: "*/7 6-21 * * *"
+    - cron: "*/5 6-21 * * *"
   workflow_dispatch:
 
 jobs:
